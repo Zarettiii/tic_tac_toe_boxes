@@ -1,0 +1,12 @@
+C:\Users\Александр\Documents\tic_tac_toe_endgame\tic_tac_toe_endgame\bin\Debug\tic_tac_toe_endgame.exe.config
+C:\Users\Александр\Documents\tic_tac_toe_endgame\tic_tac_toe_endgame\bin\Debug\tic_tac_toe_endgame.exe
+C:\Users\Александр\Documents\tic_tac_toe_endgame\tic_tac_toe_endgame\bin\Debug\tic_tac_toe_endgame.pdb
+C:\Users\Александр\Documents\tic_tac_toe_endgame\tic_tac_toe_endgame\obj\Debug\tic_tac_toe_endgame.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Documents\tic_tac_toe_endgame\tic_tac_toe_endgame\obj\Debug\tic_tac_toe_endgame.Form1.resources
+C:\Users\Александр\Documents\tic_tac_toe_endgame\tic_tac_toe_endgame\obj\Debug\tic_tac_toe_endgame.Properties.Resources.resources
+C:\Users\Александр\Documents\tic_tac_toe_endgame\tic_tac_toe_endgame\obj\Debug\tic_tac_toe_endgame.csproj.GenerateResource.Cache
+C:\Users\Александр\Documents\tic_tac_toe_endgame\tic_tac_toe_endgame\obj\Debug\tic_tac_toe_endgame.exe
+C:\Users\Александр\Documents\tic_tac_toe_endgame\tic_tac_toe_endgame\obj\Debug\tic_tac_toe_endgame.pdb
+C:\Users\sxsmd\Documents\tic_tac_toe_endgame\tic_tac_toe_endgame\bin\Debug\tic_tac_toe_endgame.exe.config
+C:\Users\sxsmd\Documents\tic_tac_toe_endgame\tic_tac_toe_endgame\obj\Debug\tic_tac_toe_endgame.exe
+C:\Users\sxsmd\Documents\tic_tac_toe_endgame\tic_tac_toe_endgame\obj\Debug\tic_tac_toe_endgame.pdb
